@@ -1,0 +1,42 @@
+.todoBox {
+    min-height: 5rem;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    margin-bottom: 1rem;
+}
+
+.todoLeft {
+    text-align: center;
+    font-weight: 400;
+}
+strong {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+small{
+    display: block;
+    text-align:center;
+}
+
+.inputBox{
+    display:flex;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+}
+
+.inputBox label{
+    width: 60%
+}
+.inputBox input{
+    width: 80%;
+}
+
+.buttons{
+    justify-content: center;
+    display:flex;
+}
